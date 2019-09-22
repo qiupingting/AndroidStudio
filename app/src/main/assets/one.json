@@ -1,0 +1,22 @@
+[
+  {
+    "dishname":"宫保鸡丁",
+    "dishinfo":"北京宫廷菜，入口鲜辣香脆",
+    "dishImg":"food1goongbaojiding"
+  },
+  {
+    "dishname":"椒盐玉米",
+    "dishinfo":"色香味俱全，浙江菜",
+    "dishImg":"food02jiaoyanyumi"
+  },
+  {
+    "dishname":"清蒸武昌鱼",
+    "dishinfo":"湖北鄂州传统名菜",
+    "dishImg":"food03qingzhengwuchangwu"
+  },
+  {
+    "dishname":"鱼香肉丝",
+    "dishinfo":"经典汉族传统川菜",
+    "dishImg":"food04wuxiangrousi"
+  }
+]
